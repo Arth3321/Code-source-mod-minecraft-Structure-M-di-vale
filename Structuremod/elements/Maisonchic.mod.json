@@ -1,0 +1,57 @@
+{
+  "_fv": 66,
+  "_type": "structure",
+  "definition": {
+    "structure": "frm_struct_ruox_maison_de_noble_medievale",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 5,
+    "separation": 2,
+    "restrictionBiomes": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "void"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "frozen_peaks"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "the_end"
+      },
+      {
+        "value": "river"
+      }
+    ],
+    "terrainAdaptation": "none",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

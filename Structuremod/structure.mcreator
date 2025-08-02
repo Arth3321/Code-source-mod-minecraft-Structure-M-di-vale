@@ -1,0 +1,129 @@
+{
+  "mod_elements": [
+    {
+      "name": "Maisonchic",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maisonchic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/structure/maisonchic.json",
+          "src/main/resources/data/structure/worldgen/template_pool/maisonchic.json",
+          "src/main/resources/data/structure/worldgen/structure_set/maisonchic.json"
+        ]
+      }
+    },
+    {
+      "name": "Aubergemedievale",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aubergemedievale",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/structure/aubergemedievale.json",
+          "src/main/resources/data/structure/worldgen/template_pool/aubergemedievale.json",
+          "src/main/resources/data/structure/worldgen/structure_set/aubergemedievale.json"
+        ]
+      }
+    },
+    {
+      "name": "Portaildunetherantique",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portaildunetherantique",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/template_pool/portaildunetherantique.json",
+          "src/main/resources/data/structure/worldgen/structure/portaildunetherantique.json",
+          "src/main/resources/data/structure/worldgen/structure_set/portaildunetherantique.json"
+        ]
+      }
+    },
+    {
+      "name": "Maisonforgeron",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maisonforgeron",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/template_pool/maisonforgeron.json",
+          "src/main/resources/data/structure/worldgen/structure_set/maisonforgeron.json",
+          "src/main/resources/data/structure/worldgen/structure/maisonforgeron.json"
+        ]
+      }
+    },
+    {
+      "name": "Aubergecreper",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aubergecreper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/template_pool/aubergecreper.json",
+          "src/main/resources/data/structure/worldgen/structure_set/aubergecreper.json",
+          "src/main/resources/data/structure/worldgen/structure/aubergecreper.json"
+        ]
+      }
+    },
+    {
+      "name": "Maisondenblemedieval",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maisondenblemedieval",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/structure_set/maisondenblemedieval.json",
+          "src/main/resources/data/structure/worldgen/structure/maisondenblemedieval.json",
+          "src/main/resources/data/structure/worldgen/template_pool/maisondenblemedieval.json"
+        ]
+      }
+    },
+    {
+      "name": "Travernedumoyenage",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "travernedumoyenage",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/structure/worldgen/structure_set/travernedumoyenage.json",
+          "src/main/resources/data/structure/worldgen/template_pool/travernedumoyenage.json",
+          "src/main/resources/data/structure/worldgen/structure/travernedumoyenage.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "structure",
+    "modName": "Structure",
+    "version": "1.0.0",
+    "author": "familleiglesias, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.6",
+    "modElementsPackage": "net.mcreator.structure"
+  },
+  "mcreatorVersion": 202400232117
+}
